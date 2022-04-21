@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "61c9b387591f62638eec3f92",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-27T12:37:27.998000+00:00"
+  },
+  {
+    "id": "62558a85f8354e3ceeeaf039",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-04-12T14:19:49.095000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0121c",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-28T15:30:07.529000+00:00"
+  },
+  {
+    "id": "622b0bf2a8fcd4c45f836994",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-03-11T08:44:34.709000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd420362",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-27T18:47:49.002000+00:00"
+  },
+  {
+    "id": "61f63c15fc9672e4e31223b7",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:19:49.924000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00e3",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T14:46:58.122000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda005b",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T12:00:10.224000+00:00"
+  },
+  {
+    "id": "621733f31856438cf241e8d4",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-24T07:37:01.336000+00:00"
+  },
+  {
+    "id": "61c9b388591f62638eec3f9a",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-27T12:37:28.008000+00:00"
+  },
+  {
+    "id": "621733f31856438cf241e8d8",
+    "appointmentId": "621733f31856438cf241e8d4",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-24T07:29:55.453000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0120a",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01200",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.494000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01208",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.505000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffcd",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:47:34.364000+00:00"
+  },
+  {
+    "id": "61c599fff7c1db96896aa895",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T09:59:27.528000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994458e",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-28T11:25:28.452000+00:00"
+  },
+  {
+    "id": "6222255aecf1cbd8353e10be",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-04T14:42:34.714000+00:00"
+  },
+  {
+    "id": "61f137aa50b40e8fddda003e",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T12:04:26.854000+00:00"
+  },
+  {
+    "id": "6220fac10e4776b6065b7ce2",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-03T17:56:58.112000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223d9",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.063000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223cf",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.048000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01212",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-28T15:30:07.517000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830a0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.214000+00:00"
+  },
+  {
+    "id": "62419a7bed9297df2994456b",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:22:35.373000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5dc",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.323000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a30",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.699000+00:00"
+  },
+  {
+    "id": "620241801b6b76b612f1fd08",
+    "appointmentId": "620241801b6b76b612f1fd02",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-08T10:10:08.326000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5e0",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-19T18:00:00+00:00"
+  },
+  {
+    "id": "6215b7bee6636f94a582def9",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T04:27:42.712000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00eb",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T14:46:58.130000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836966",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.742000+00:00"
+  },
+  {
+    "id": "61c9b388591f62638eec3f98",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-27T12:37:28.006000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffd5",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T10:47:34.374000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a36",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.707000+00:00"
+  },
+  {
+    "id": "61f1371150b40e8fddda0034",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T12:05:03.500000+00:00"
+  },
+  {
+    "id": "61c9bd4c591f62638eec3fa9",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T13:19:08.085000+00:00"
+  },
+  {
+    "id": "6213394de6636f94a582de4e",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-21T07:03:41.870000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd420366",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-27T18:47:49.006000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a40",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-02-03T09:00:27.718000+00:00"
+  },
+  {
+    "id": "62419a7bed9297df2994456d",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:22:35.375000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01216",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-28T15:30:07.522000+00:00"
+  },
+  {
+    "id": "622b1c63a8fcd4c45f8369c4",
+    "appointmentId": "622b1c63a8fcd4c45f8369c0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T09:54:43.705000+00:00"
+  },
+  {
+    "id": "61c9e59b591f62638eec3fc5",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2021-12-27T17:00:00+00:00"
+  },
+  {
+    "id": "61c57d38f7c1db96896aa83a",
+    "appointmentId": "61c57d38f7c1db96896aa836",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T07:56:40.236000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830aa",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.229000+00:00"
+  },
+  {
+    "id": "61dd8edea59b3765e83cc40e",
+    "appointmentId": "61dd8edea59b3765e83cc408",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-11T14:06:22.514000+00:00"
+  },
+  {
+    "id": "61f2e8d48f542e01dd42035e",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T18:47:48.996000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223e7",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-30T07:21:23.079000+00:00"
+  },
+  {
+    "id": "6221c3410e4776b6065b7d31",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-04T09:36:54.200000+00:00"
+  },
+  {
+    "id": "622b0bf2a8fcd4c45f836991",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-03-11T08:44:34.704000+00:00"
+  },
+  {
+    "id": "622b0bf2a8fcd4c45f836998",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:44:34.718000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a28",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.687000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944580",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.431000+00:00"
+  },
+  {
+    "id": "620241801b6b76b612f1fd06",
+    "appointmentId": "620241801b6b76b612f1fd02",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-08T10:10:08.324000+00:00"
+  },
+  {
+    "id": "61c9b388591f62638eec3f94",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-27T12:37:28.002000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0121e",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "1981-08-15T00:00:00+00:00"
+  },
+  {
+    "id": "61e65869c9b0665b9168c181",
+    "appointmentId": "61e65869c9b0665b9168c17b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T06:04:25.572000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f82",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T12:37:27.979000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836988",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "2022-02-20"
+  },
+  {
+    "id": "61dd8edea59b3765e83cc40c",
+    "appointmentId": "61dd8edea59b3765e83cc408",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-11T14:06:22.506000+00:00"
+  },
+  {
+    "id": "61dd8edea59b3765e83cc408",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-11T18:00:00+00:00"
+  },
+  {
+    "id": "61e65869c9b0665b9168c17f",
+    "appointmentId": "61e65869c9b0665b9168c17b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T06:04:25.570000+00:00"
+  },
+  {
+    "id": "61f2e8d48f542e01dd42035c",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T18:47:48.993000+00:00"
+  },
+  {
+    "id": "61f0ed6150b40e8fddd9ff7d",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T06:42:41.921000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf628309e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.212000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830b8",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-31T06:13:02.263000+00:00"
+  },
+  {
+    "id": "61c9a7b2591f62638eec3e88",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2021-12-27T13:11:54.939000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec011fc",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.488000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830b2",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-31T06:13:02.255000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5f0",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-02-23T10:46:38.352000+00:00"
+  },
+  {
+    "id": "6222255aecf1cbd8353e10ba",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-03-04T14:42:34.710000+00:00"
+  },
+  {
+    "id": "620e3a0ae6636f94a582dd11",
+    "appointmentId": "620e3a0ae6636f94a582dd0d",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-17T12:05:30.471000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0121a",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-28T15:30:07.527000+00:00"
+  },
+  {
+    "id": "61c9e59b591f62638eec3fcd",
+    "appointmentId": "61c9e59b591f62638eec3fc5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T16:11:07.274000+00:00"
+  },
+  {
+    "id": "61f134de50b40e8fddda002a",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T11:47:42.014000+00:00"
+  },
+  {
+    "id": "61f2e8d48f542e01dd42035a",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T18:47:48.990000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffd7",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T10:47:34.376000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc1092",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T12:52:23.645000+00:00"
+  },
+  {
+    "id": "61e65869c9b0665b9168c17b",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-19T00:00:00+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffd3",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T10:47:34.372000+00:00"
+  },
+  {
+    "id": "62419a7bed9297df29944567",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-28T12:00:00+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830b0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-31T06:13:02.248000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00f1",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T14:46:58.135000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda004f",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:00:10.212000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0053",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T12:00:10.216000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0055",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T12:00:10.218000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944594",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-03-28T11:25:28.464000+00:00"
+  },
+  {
+    "id": "61c9a7b2591f62638eec3e8c",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T11:46:58.311000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223eb",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-30T07:21:23.084000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944596",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-03-28T11:25:28.471000+00:00"
+  },
+  {
+    "id": "62188db4bba0c385aea38327",
+    "appointmentId": "62188db4bba0c385aea38323",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-25T08:05:08.773000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0047",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:00:10.201000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0061",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Procedure",
+    "resource": "Procedure",
+    "date": "2022-01-26T12:00:10.230000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830a6",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.223000+00:00"
+  },
+  {
+    "id": "61f13bdc50b40e8fddda00d0",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T12:21:40.656000+00:00"
+  },
+  {
+    "id": "6222255aecf1cbd8353e10bc",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-04T14:42:34.712000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836972",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.760000+00:00"
+  },
+  {
+    "id": "61c599fff7c1db96896aa88f",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2021-12-24T17:00:00+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994458a",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-28T11:25:28.448000+00:00"
+  },
+  {
+    "id": "61f137aa50b40e8fddda0042",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T11:59:38.383000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10a4",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-24T12:52:23.689000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944578",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.417000+00:00"
+  },
+  {
+    "id": "61f134de50b40e8fddda0026",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T11:52:56.635000+00:00"
+  },
+  {
+    "id": "61c9bd4c591f62638eec3fa7",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2021-12-27T13:19:08.080000+00:00"
+  },
+  {
+    "id": "61f1263450b40e8fddd9ffc0",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-01-26T10:45:08.020000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830bc",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-31T06:13:02.273000+00:00"
+  },
+  {
+    "id": "61f13bdc50b40e8fddda00d4",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:17:32.300000+00:00"
+  },
+  {
+    "id": "61f1391850b40e8fddda006e",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T12:06:51.055000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944592",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-03-28T11:25:28.462000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5ec",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-02-23T10:46:38.346000+00:00"
+  },
+  {
+    "id": "6221c3410e4776b6065b7d37",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-04T07:44:01.596000+00:00"
+  },
+  {
+    "id": "61de6344a59b3765e83cc422",
+    "appointmentId": "61de6344a59b3765e83cc41e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-12T05:12:36.598000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944588",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-28T11:25:28.442000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd42036a",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-27T18:47:49.010000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f8a",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T12:37:27.990000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f8c",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-27T12:37:27.993000+00:00"
+  },
+  {
+    "id": "61de6344a59b3765e83cc41e",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-12T08:00:00+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00e1",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T14:46:58.119000+00:00"
+  },
+  {
+    "id": "61c9b388591f62638eec3f9c",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Procedure",
+    "resource": "Procedure",
+    "date": "2021-12-27T12:37:28.010000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5d2",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.307000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5ee",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-02-23T10:46:38.349000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5d8",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.316000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83696c",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.751000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944582",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.434000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5d6",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.312000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01218",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-28T15:30:07.524000+00:00"
+  },
+  {
+    "id": "61dec4e2a59b3765e83cc42e",
+    "appointmentId": "61dec4e2a59b3765e83cc428",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-12T12:09:06.659000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00dd",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T14:46:58.114000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830b6",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-31T06:13:02.260000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda005f",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T12:00:10.228000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830b4",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-31T06:13:02.258000+00:00"
+  },
+  {
+    "id": "6213394de6636f94a582de4c",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-21T07:03:41.869000+00:00"
+  },
+  {
+    "id": "61f1371150b40e8fddda0038",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T11:57:05.149000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5e8",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-23T10:46:38.341000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5da",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.320000+00:00"
+  },
+  {
+    "id": "61e54c44c9b0665b9168c173",
+    "appointmentId": "61e54c44c9b0665b9168c16f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-17T11:00:20.260000+00:00"
+  },
+  {
+    "id": "62558a85f8354e3ceeeaf040",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-04-12T14:19:49.104000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10ac",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2021-12-24T12:52:23.702000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830a8",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.226000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01214",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-28T15:30:07.519000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a48",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "1981-08-15T00:00:00+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830be",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-31T06:13:02.281000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a2e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.696000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffd1",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:47:34.369000+00:00"
+  },
+  {
+    "id": "61e54c44c9b0665b9168c16f",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-17T11:01:37.693000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223d7",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.060000+00:00"
+  },
+  {
+    "id": "62558a85f8354e3ceeeaf03e",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-04-12T14:19:49.102000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffdb",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T10:47:34.380000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830ae",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.245000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223e3",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-30T07:21:23.074000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5e6",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-23T10:46:38.339000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836970",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.757000+00:00"
+  },
+  {
+    "id": "61c57d38f7c1db96896aa836",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2021-12-24T18:00:00+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc1094",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T12:52:23.649000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836980",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-03-11T08:41:48.782000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5d4",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.310000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5de",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.326000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd420364",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-27T18:47:49.004000+00:00"
+  },
+  {
+    "id": "61c9b388591f62638eec3f96",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-27T12:37:28.004000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd420370",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-27T18:47:49.016000+00:00"
+  },
+  {
+    "id": "620f3183e6636f94a582dd51",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-18T07:07:32.165000+00:00"
+  },
+  {
+    "id": "61f1208d50b40e8fddd9ffb9",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:21:01.019000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00ed",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T14:46:58.132000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f84",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T12:37:27.981000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a3a",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-03T09:00:27.711000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10a2",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-24T12:52:23.687000+00:00"
+  },
+  {
+    "id": "6220fac10e4776b6065b7ce6",
+    "appointmentId": "6220fac10e4776b6065b7ce2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-03T17:28:33.555000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10a6",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-24T12:52:23.691000+00:00"
+  },
+  {
+    "id": "61f1263450b40e8fddd9ffbd",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-01-26T10:45:08.016000+00:00"
+  },
+  {
+    "id": "61dec4e2a59b3765e83cc42c",
+    "appointmentId": "61dec4e2a59b3765e83cc428",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-12T12:09:06.657000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc109c",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-24T12:52:23.667000+00:00"
+  },
+  {
+    "id": "622102110e4776b6065b7d13",
+    "appointmentId": "6220fac10e4776b6065b7ce2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-03T17:59:45.046000+00:00"
+  },
+  {
+    "id": "6215b7bee6636f94a582def7",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T04:27:42.710000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f8e",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-27T12:37:27.995000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0120c",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.510000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc109e",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-24T12:52:23.671000+00:00"
+  },
+  {
+    "id": "622102110e4776b6065b7d11",
+    "appointmentId": "6220fac10e4776b6065b7ce2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-03T17:59:45.044000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a2c",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.693000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83696e",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.754000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223ed",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-30T07:21:23.088000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a3e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-03T09:00:27.716000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffe1",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T10:47:34.386000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffe3",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Procedure",
+    "resource": "Procedure",
+    "date": "2022-01-26T10:47:34.388000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffcf",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:47:34.367000+00:00"
+  },
+  {
+    "id": "61f1391850b40e8fddda0072",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:05:44.930000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00d9",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T14:46:58.109000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994457a",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.420000+00:00"
+  },
+  {
+    "id": "62135a88e6636f94a582de8f",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-21T09:25:28.542000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223d1",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.051000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc109a",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-24T12:52:23.664000+00:00"
+  },
+  {
+    "id": "620f8187e6636f94a582de3c",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-18T11:28:40.034000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836974",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-20"
+  },
+  {
+    "id": "62135a88e6636f94a582de8d",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-02-21T09:25:28.540000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd420368",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-27T18:47:49.008000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223e1",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-30T07:21:23.072000+00:00"
+  },
+  {
+    "id": "6239ce03bf646fd0dde4e9d8",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-22T13:24:19.353000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223e9",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-30T07:21:23.082000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83697a",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-11T08:41:48.774000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944576",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.414000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223e5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-30T07:21:23.077000+00:00"
+  },
+  {
+    "id": "620f3183e6636f94a582dd57",
+    "appointmentId": "620f3183e6636f94a582dd51",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-18T05:41:23.025000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836976",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.765000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd42036e",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-01-27T18:47:49.014000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00df",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T14:46:58.117000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc1096",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T12:52:23.653000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f90",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-27T12:37:27.996000+00:00"
+  },
+  {
+    "id": "622b0afea8fcd4c45f83695f",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:40:30.586000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5ea",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-23T10:46:38.343000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5f2",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-02-23T10:46:38.354000+00:00"
+  },
+  {
+    "id": "61f228da44499147c98f7b96",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-27T18:00:00+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223d5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.057000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836986",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-03-11T08:41:48.802000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830a4",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.221000+00:00"
+  },
+  {
+    "id": "62188db4bba0c385aea38323",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-25T09:05:14.563000+00:00"
+  },
+  {
+    "id": "6213394de6636f94a582de48",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-21T07:20:56.502000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836978",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-11T08:41:48.767000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223df",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-30T07:21:23.070000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223cd",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.045000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01206",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.502000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830ac",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffd9",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T10:47:34.378000+00:00"
+  },
+  {
+    "id": "622b0afea8fcd4c45f83695b",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-11T08:44:00.669000+00:00"
+  },
+  {
+    "id": "61f1263450b40e8fddd9ffc4",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:45:08.026000+00:00"
+  },
+  {
+    "id": "62419a7bed9297df2994456f",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:22:35.377000+00:00"
+  },
+  {
+    "id": "6239ce03bf646fd0dde4e9d6",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-22T13:24:19.350000+00:00"
+  },
+  {
+    "id": "61e54c44c9b0665b9168c175",
+    "appointmentId": "61e54c44c9b0665b9168c16f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-17T11:00:20.262000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f88",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T12:37:27.987000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec0120e",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-28T15:30:07.512000+00:00"
+  },
+  {
+    "id": "61c9e59b591f62638eec3fcb",
+    "appointmentId": "61c9e59b591f62638eec3fc5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T16:11:07.272000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a3c",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-03T09:00:27.714000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830ba",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-31T06:13:02.270000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83696a",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.748000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223ef",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "1981-08-15T00:00:00+00:00"
+  },
+  {
+    "id": "61fb955dd2eed217ade889e1",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-03T18:00:00+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223dd",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.067000+00:00"
+  },
+  {
+    "id": "61f0ed6150b40e8fddd9ff79",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T09:00:00+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836982",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-03-11T08:41:48.789000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83697c",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-11T08:41:48.777000+00:00"
+  },
+  {
+    "id": "620241801b6b76b612f1fd02",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-08T10:34:18.844000+00:00"
+  },
+  {
+    "id": "61f1348d50b40e8fddda001d",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T11:46:21.675000+00:00"
+  },
+  {
+    "id": "622b1c63a8fcd4c45f8369c0",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-11T12:32:04.648000+00:00"
+  },
+  {
+    "id": "61f3885e8f542e01dd420377",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-31T08:00:00+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5f4",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "2022-02-19T18:00:00+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836968",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:41:48.745000+00:00"
+  },
+  {
+    "id": "61c9bd4c591f62638eec3fa4",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2021-12-27T13:19:08.076000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00f3",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Procedure",
+    "resource": "Procedure",
+    "date": "2022-01-26T14:46:58.137000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00e7",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T14:46:58.126000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830c0",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "1981-08-15T00:00:00+00:00"
+  },
+  {
+    "id": "61f77dc102cd27cdf6283093",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-31T15:00:00+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00e5",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T14:46:58.124000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00ef",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T14:46:58.133000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01210",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-28T15:30:07.515000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223db",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944598",
+    "name": "Immunization",
+    "resource": "Immunization",
+    "date": "2022-02-20"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a46",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-02-03T09:00:27.725000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a44",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-02-03T09:00:27.723000+00:00"
+  },
+  {
+    "id": "61c9e59b591f62638eec3fcf",
+    "appointmentId": "61c9e59b591f62638eec3fc5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T16:11:07.275000+00:00"
+  },
+  {
+    "id": "6222255aecf1cbd8353e10b7",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-03-04T14:42:34.705000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffdf",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T10:47:34.384000+00:00"
+  },
+  {
+    "id": "61f1208d50b40e8fddd9ffb5",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T10:28:06.583000+00:00"
+  },
+  {
+    "id": "61f0ed6150b40e8fddd9ff7f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T06:42:41.923000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994457e",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.428000+00:00"
+  },
+  {
+    "id": "6213394de6636f94a582de50",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-21T07:03:41.872000+00:00"
+  },
+  {
+    "id": "620f8187e6636f94a582de40",
+    "appointmentId": "620f8187e6636f94a582de3c",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-18T11:22:47.125000+00:00"
+  },
+  {
+    "id": "61f63c73fc9672e4e31223d3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:21:23.054000+00:00"
+  },
+  {
+    "id": "61c9b387591f62638eec3f86",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T12:37:27.984000+00:00"
+  },
+  {
+    "id": "6239ce03bf646fd0dde4e9da",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-22T13:24:19.355000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a38",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-03T09:00:27.709000+00:00"
+  },
+  {
+    "id": "61f77dee02cd27cdf62830a2",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:13:02.217000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc1098",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T12:52:23.659000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10aa",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Procedure",
+    "resource": "Procedure",
+    "date": "2021-12-24T12:52:23.695000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00db",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T14:46:58.111000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5e4",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-02-23T10:46:38.336000+00:00"
+  },
+  {
+    "id": "6221c3410e4776b6065b7d35",
+    "appointmentId": "6221c3410e4776b6065b7d31",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-04T07:44:01.594000+00:00"
+  },
+  {
+    "id": "61f1263450b40e8fddd9ffc2",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:45:08.024000+00:00"
+  },
+  {
+    "id": "61f63c15fc9672e4e31223b3",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-31T15:00:00+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda004d",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:00:10.209000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944584",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-20"
+  },
+  {
+    "id": "61f228da44499147c98f7b9a",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T05:08:42.952000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f83697e",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-11T08:41:48.779000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01204",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.500000+00:00"
+  },
+  {
+    "id": "61c599fff7c1db96896aa893",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-24T09:59:27.525000+00:00"
+  },
+  {
+    "id": "61f2e8d58f542e01dd42036c",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-27T18:47:49.012000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffc9",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:47:34.359000+00:00"
+  },
+  {
+    "id": "61f1348d50b40e8fddda0019",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-26T11:46:48.976000+00:00"
+  },
+  {
+    "id": "622102110e4776b6065b7d0c",
+    "appointmentId": "6220fac10e4776b6065b7ce2",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-03-03T17:59:45.037000+00:00"
+  },
+  {
+    "id": "6239ce03bf646fd0dde4e9d2",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-03-22T13:29:16.189000+00:00"
+  },
+  {
+    "id": "62135a88e6636f94a582de91",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-21T09:25:28.544000+00:00"
+  },
+  {
+    "id": "62135a88e6636f94a582de8a",
+    "appointmentId": "6213394de6636f94a582de48",
+    "name": "Diagnosis",
+    "resource": "Condition",
+    "date": "2022-02-21T09:25:28.535000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944586",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.439000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a34",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda005d",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T12:00:10.226000+00:00"
+  },
+  {
+    "id": "61dec4e2a59b3765e83cc428",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-12T19:00:00+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a26",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.684000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0051",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T12:00:10.215000+00:00"
+  },
+  {
+    "id": "61c9e59b591f62638eec3fc9",
+    "appointmentId": "61c9e59b591f62638eec3fc5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T16:11:07.270000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffdd",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-01-26T10:47:34.382000+00:00"
+  },
+  {
+    "id": "61f15ee250b40e8fddda00e9",
+    "appointmentId": "61f13bdc50b40e8fddda00d0",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T14:46:58.128000+00:00"
+  },
+  {
+    "id": "61fb955dd2eed217ade889e5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T08:42:05.782000+00:00"
+  },
+  {
+    "id": "61f63c52fc9672e4e31223c6",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-30T07:20:50.979000+00:00"
+  },
+  {
+    "id": "61f3885e8f542e01dd42037b",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T06:08:30.421000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df29944590",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-03-28T11:25:28.455000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0059",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T12:00:10.222000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda004b",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:00:10.206000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a2a",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.690000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10a0",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2021-12-24T12:52:23.674000+00:00"
+  },
+  {
+    "id": "61f2e8d48f542e01dd420358",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T18:47:48.988000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994458c",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-03-28T11:25:28.450000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec01202",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.497000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0049",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T12:00:10.204000+00:00"
+  },
+  {
+    "id": "61f126c650b40e8fddd9ffcb",
+    "appointmentId": "61f1208d50b40e8fddd9ffb5",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-26T10:47:34.361000+00:00"
+  },
+  {
+    "id": "622b0b4ca8fcd4c45f836984",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "MedicationStatement",
+    "resource": "MedicationStatement",
+    "date": "2022-03-11T08:41:48.792000+00:00"
+  },
+  {
+    "id": "61f2e8d48f542e01dd420360",
+    "appointmentId": "61f228da44499147c98f7b96",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-27T18:47:48.998000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a42",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2022-02-03T09:00:27.721000+00:00"
+  },
+  {
+    "id": "61f137ca50b40e8fddda0057",
+    "appointmentId": "61f137aa50b40e8fddda003e",
+    "name": "Condition",
+    "resource": "Condition",
+    "date": "2022-01-26T12:00:10.220000+00:00"
+  },
+  {
+    "id": "61fb99abd2eed217ade88a32",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-03T09:00:27.702000+00:00"
+  },
+  {
+    "id": "61f63c52fc9672e4e31223c2",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-01-31T16:00:00+00:00"
+  },
+  {
+    "id": "622102110e4776b6065b7d0f",
+    "appointmentId": "6220fac10e4776b6065b7ce2",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-03-03T17:59:45.042000+00:00"
+  },
+  {
+    "id": "62419b28ed9297df2994457c",
+    "appointmentId": "62419a7bed9297df29944567",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-28T11:25:28.423000+00:00"
+  },
+  {
+    "id": "61f40bff82ce73530ec011fe",
+    "appointmentId": "61f3885e8f542e01dd420377",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-28T15:30:07.491000+00:00"
+  },
+  {
+    "id": "6216108ee6636f94a582e5e2",
+    "appointmentId": "6215b7bee6636f94a582def3",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-23T10:46:38.332000+00:00"
+  },
+  {
+    "id": "620f3183e6636f94a582dd55",
+    "appointmentId": "620f3183e6636f94a582dd51",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-02-18T05:41:23.023000+00:00"
+  },
+  {
+    "id": "6215b7bee6636f94a582def3",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-23T23:00:00+00:00"
+  },
+  {
+    "id": "61f77dc102cd27cdf6283097",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-01-31T06:12:17.951000+00:00"
+  },
+  {
+    "id": "620e3a0ae6636f94a582dd0d",
+    "name": "Appointment",
+    "resource": "Appointment",
+    "date": "2022-02-17T13:25:36.734000+00:00"
+  },
+  {
+    "id": "62558a85f8354e3ceeeaf03c",
+    "appointmentId": "6239ce03bf646fd0dde4e9d2",
+    "name": "CarePlan",
+    "resource": "CarePlan",
+    "date": "2022-04-12T14:19:49.100000+00:00"
+  },
+  {
+    "id": "61c5c287a366a5779fdc10a8",
+    "appointmentId": "61c599fff7c1db96896aa88f",
+    "name": "AllergyIntolerance",
+    "resource": "AllergyIntolerance",
+    "date": "2021-12-24T12:52:23.693000+00:00"
+  },
+  {
+    "id": "61c9bd4c591f62638eec3fab",
+    "appointmentId": "61c9a7b2591f62638eec3e88",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2021-12-27T13:19:08.087000+00:00"
+  },
+  {
+    "id": "622b0bf2a8fcd4c45f836996",
+    "appointmentId": "622b0afea8fcd4c45f83695b",
+    "name": "Observation",
+    "resource": "Observation",
+    "date": "2022-03-11T08:44:34.716000+00:00"
+  }
+]
