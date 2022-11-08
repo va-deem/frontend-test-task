@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  padding: 10px;
+  border-radius: 0 0 5px 5px;
+  background-color: #bacff6;
+}
+
+.navbar__link {
+  margin-right: 1em;
+  text-decoration: none;
+  color: black;
+}
+
+.navbar__link--active {
+  font-weight: bold;
+  text-decoration: underline;
+}
